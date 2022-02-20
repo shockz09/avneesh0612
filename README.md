@@ -50,6 +50,5 @@ Inscribe is a DAO for blog... </p> <br/> <br/>
 
 ## Discord Status 💻
 
-<a href="https://discord.com/users/765196568051580949">
-     <img src="https://lanyard.cnrad.dev/api/765196568051580949" width="400" height="200" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/Rohit Mishra#3630
+                            )](https://discord.com/users/Rohit Mishra#3630)
